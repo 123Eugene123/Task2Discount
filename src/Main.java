@@ -12,6 +12,5 @@ public class Main {
             System.out.println("Баланс счёта = " + balance2);
             System.out.println("Бонусов = " + bonus);
         }
-
     }
 }
