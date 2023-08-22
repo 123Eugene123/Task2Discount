@@ -3,7 +3,7 @@ public class Main {
         int chek = 100;
         int topup = 1100;
         int bonus;
-        if (topup > 1000) {
+        if (topup > 0) {
             bonus = topup / 100;
             int balance = bonus + chek + topup;
             System.out.println("Баланс счёта = " + balance + " рублей");
